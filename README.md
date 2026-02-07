@@ -1,4 +1,12 @@
 # Cloud Compliance Execution Graph (CCEG) Dataset
+# Cloud Compliance Execution Graph (CCEG)
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPa345-ai%2FCCEG.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FPa345-ai%2FCCEG?ref=badge_shield&issueType=license) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPa345-ai%2FCCEG.svg?type=shield&issueType=security)](https://app.fossa.com/projects/git%2Bgithub.com%2FPa345-ai%2FCCEG?ref=badge_shield&issueType=security)
+
+**Licensing & Security Audited by [FOSSA](https://fossa.com)**
+
+---
+
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Records](https://img.shields.io/badge/records-10,000-green.svg)
