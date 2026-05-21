@@ -1,8 +1,8 @@
 # DATASHEET: Cloud Compliance Execution Graph (CCEG)
 
 **Version:** 1.0.0  
-**Release Date:** January 2025  
-**Last Updated:** January 8, 2025
+**Release Date:** January 2026  
+**Last Updated:** January 8, 2026
 
 This datasheet follows the framework proposed by Gebru et al. (2018) for documenting machine learning datasets.
 
@@ -616,6 +616,6 @@ Legal review confirmed compliance with intellectual property law.
 ---
 
 **Document Version:** 1.0.0  
-**Last Updated:** January 8, 2025  
+**Last Updated:** January 8, 2026
 **Authors:** CCEG Dataset Team  
 **Contact:** ranasingheinfrastructure@gmail.com
