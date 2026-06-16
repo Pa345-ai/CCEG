@@ -11,6 +11,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Records](https://img.shields.io/badge/records-10,000-green.svg)
 ![License](https://img.shields.io/badge/license-Commercial-red.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPa345-ai%2FCCEG.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FPa345-ai%2FCCEG?ref=badge_shield)
 
 ## Overview
 
@@ -325,6 +326,9 @@ This dataset is **fully synthetic** and contains:
 - ✅ Synthetic infrastructure patterns
 
 **License:** Commercial dataset. Contact for licensing terms.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPa345-ai%2FCCEG.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FPa345-ai%2FCCEG?ref=badge_large)
 
 ## 📚 Documentation
 
